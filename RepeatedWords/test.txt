@@ -1,1 +1,3 @@
-Dupka dupka penis cipka,dupka
+﻿Bardzo mi miło was powitać w mojej aplikacji konsolowej.
+Ta aplikacja umożliwia obliczenie ilość powtarzających się słów w danej sekwencji znaków.
+aplikacji konsolowej konsolowej ilość miło

@@ -10,7 +10,7 @@ namespace RepeatedWords
     {
         static void Main(string[] args)
         {
-            var filePath = "C:\\Users\\TURBO\\source\\repos\\RepeatedWords\\RepeatedWords\\test.txt";
+            var filePath = "C:\\Users\\Michal\\source\\repos\\wiktomi\\RepeatedWords\\RepeatedWords\\test.txt";
 
             string allWords = File.ReadAllText(filePath, Encoding.UTF8).ToLower();
 
